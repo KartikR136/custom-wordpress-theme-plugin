@@ -1,0 +1,8 @@
+body.wp-editor {
+	font-family: "Inter", Arial, sans-serif;
+	padding: 20px;
+}
+
+.wp-block {
+	max-width: 900px;
+}

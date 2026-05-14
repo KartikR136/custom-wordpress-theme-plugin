@@ -1,0 +1,14 @@
+{
+  "apiVersion": 2,
+  "name": "cct/service-card-block",
+  "title": "Service Card Block",
+  "category": "widgets",
+  "icon": "screenoptions",
+  "description": "Display a service card.",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "cct-service-editor",
+  "editorStyle": "cct-service-editor-style",
+  "style": "cct-service-style"
+}

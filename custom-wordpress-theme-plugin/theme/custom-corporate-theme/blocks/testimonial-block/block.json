@@ -1,0 +1,14 @@
+{
+  "apiVersion": 2,
+  "name": "cct/testimonial-block",
+  "title": "Testimonial Block",
+  "category": "widgets",
+  "icon": "format-quote",
+  "description": "Display a customer testimonial.",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "cct-testimonial-editor",
+  "editorStyle": "cct-testimonial-editor-style",
+  "style": "cct-testimonial-style"
+}

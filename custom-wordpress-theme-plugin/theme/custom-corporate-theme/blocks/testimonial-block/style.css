@@ -1,0 +1,16 @@
+.testimonial-block {
+	padding: 30px;
+	border-radius: 14px;
+	background: #f8f9fc;
+	border: 1px solid #ececec;
+}
+
+.testimonial-block blockquote {
+	font-size: 1.1rem;
+	font-style: italic;
+	margin-bottom: 16px;
+}
+
+.testimonial-block .author {
+	font-weight: 700;
+}
